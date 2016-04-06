@@ -1,0 +1,7 @@
+# .gitignore
+ 
+# Java class files
+*.class
+
+# Executable files
+*.exe
